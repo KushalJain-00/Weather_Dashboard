@@ -1,0 +1,10 @@
+# Weather Dashboard - Dependencies
+
+# Core requirements
+requests>=2.31.0         # HTTP library for API calls
+python-dotenv>=1.0.0    # Environment variable management
+
+# Future enhancements (uncomment when implementing):
+# matplotlib>=3.7.0      # For weather charts
+# pandas>=2.0.0          # For data analysis
+# flask>=2.3.0           # For web interface
